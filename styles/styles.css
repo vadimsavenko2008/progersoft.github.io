@@ -1,0 +1,130 @@
+body {
+    background-color: #222222;
+}
+
+.page {
+    background-color: #444444;
+    height: auto;
+    width: 60%;
+    margin:0 auto;
+    border-radius: 10px;
+}
+
+.menu {
+    margin: 5px;
+    padding: 4px;
+    background-color: #666666;
+    border-radius: 5px;
+}
+
+.news {
+    margin: 5px;
+    padding: 4px;
+    background-color: #666666;
+    border-radius: 5px;
+}
+
+.fact {
+    margin: 5px;
+    padding: 4px;
+    background-color: #888888;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+
+.softs {
+    margin: 5px;
+    padding: 4px;
+    background-color: #666666;
+    border-radius: 5px;
+}
+
+.info {
+    margin: 5px;
+    padding: 4px;
+    background-color: #666666;
+    border-radius: 5px;
+}
+
+.soft {
+    margin: 5px;
+    padding: 4px;
+    background-color: #888888;
+    border-radius: 5px;
+    color: black;
+}
+
+.describe {
+    margin: 5px;
+    padding: 4px;
+    background-color: #b9b9b9;
+    border-radius: 5px;
+    color: black;
+}
+
+.about {
+    font-family: 'Segoe UI';
+    color: white;
+    text-align: center;
+}
+
+.mail {
+    font-family: 'Segoe UI';
+    color: rgb(155, 252, 255);
+}
+
+.downloads {
+    margin: 5px;
+    padding: 2px;
+}
+
+.downloads:hover {
+    margin: 2px;
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI';
+    border-radius: 2px;
+}
+
+h1 {
+    font-family: 'Segoe UI';
+    color: white;
+    margin: 5px;
+}
+
+h2 {
+    font-family: 'Segoe UI';
+    color: white;
+    margin: 5px;
+}
+
+h3 {
+    font-family: 'Segoe UI';
+    color: white;
+    margin: 5px;
+}
+
+p {
+    font-family: 'Segoe UI';
+    color: white;
+    margin: 5px;
+}
+
+a {
+    font-family: 'Segoe UI';
+    color: white;
+    text-decoration: none;
+}
+
+.menubutton:hover {
+    margin: 2px;
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI';
+    border-radius: 2px;
+}
+
+hr {
+    color: white;
+}
