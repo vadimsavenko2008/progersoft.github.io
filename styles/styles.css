@@ -87,6 +87,19 @@ body {
     border-radius: 2px;
 }
 
+.open {
+    margin: 5px;
+    padding: 2px;
+}
+
+.open:hover {
+    margin: 2px;
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI';
+    border-radius: 2px;
+}
+
 h1 {
     font-family: 'Segoe UI';
     color: white;
